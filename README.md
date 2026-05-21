@@ -1,5 +1,7 @@
 # hzau校园网ip检测
 
+![Hits](https://komarev.com/ghpvc/?username=zonestissyc&repo=hzau-ip-check)
+
 这是一个基于 Go 开发的 HZAU 校园网 IP 检测后端服务，可用于判断访问用户是否处于 HZAU 校园网环境，并查询返回对应的用户 ID（通常为学号）。它可以作为校内资源分享网站的一种轻量级身份验证方案。
 
 部分资源分享网站（如学科资料共享平台等）出于信任与安全考虑，不希望校外用户访问，仅允许连接校园网的用户使用，例如宿舍区网络及免费校园 WiFi 用户。
