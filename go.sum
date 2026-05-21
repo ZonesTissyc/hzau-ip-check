@@ -1,0 +1,6 @@
+github.com/yinheli/mahonia v0.0.0-20131226213531-0eef680515cc h1:7VHQaaNwHymWbj8lAcXMYX1qopebSBHwYC3ceXLWONU=
+github.com/yinheli/mahonia v0.0.0-20131226213531-0eef680515cc/go.mod h1:Pcc297eVCbkDBBVq8FbnI+qDUeIMrHy4Bo7nveAuCAs=
+github.com/yinheli/qqwry v0.0.0-20160229183603-f50680010f4a h1:VUPXGL4N1B5xqomxI4vZn0momgleh0hcH0PE/oIOsAI=
+github.com/yinheli/qqwry v0.0.0-20160229183603-f50680010f4a/go.mod h1:Zva9ErVtC2arl+9xtHwiXujgejX1S3VpOYExADJ9kio=
+golang.org/x/time v0.15.0 h1:bbrp8t3bGUeFOx08pvsMYRTCVSMk89u4tKbNOZbp88U=
+golang.org/x/time v0.15.0/go.mod h1:Y4YMaQmXwGQZoFaVFk4YpCt4FLQMYKZe9oeV/f4MSno=
