@@ -1,4 +1,4 @@
-module hzau-ip-locator
+module hzau-ip-check
 
 go 1.26.3
 

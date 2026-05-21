@@ -13,8 +13,8 @@ import (
 
 	"golang.org/x/time/rate"
 
-	"hzau-ip-locator/campus"
-	"hzau-ip-locator/ipquery"
+	"hzau-ip-check/campus"
+	"hzau-ip-check/ipquery"
 )
 
 // APIResponse 定义返回给前端的结构体

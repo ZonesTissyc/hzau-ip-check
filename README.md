@@ -26,10 +26,10 @@
     运行下载脚本：`bash download_qqwry.sh` 下载最新ip数据库文件。
     
     或者手动下载 [https://github.com/metowolf/qqwry.dat/releases/latest/download/qqwry.dat](https://github.com/metowolf/qqwry.dat/releases/latest/download/qqwry.dat)，复制到项目根目录。
-    
+
 3. 运行
 
-    终端里运行 `go run hzau-ip-locator.go` ，检测是否正常输出日志。
+    终端里运行 `go run hzau-ip-check.go` ，检测是否正常输出日志。
 
 4. 访问
 

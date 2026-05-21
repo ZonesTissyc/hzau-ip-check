@@ -1,0 +1,13 @@
+hzau-ip-check
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+qqwry.dat
+
+.idea/
+.vscode/
+*.log
+.DS_Store
